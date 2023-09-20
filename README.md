@@ -97,7 +97,7 @@
 
 ###
 
-![snake gif](https://github.com/Eng-OmarFalih/Profile/blob/main/omarfalih-grid-snake-dark.svg)
+![snake gif](https://github.com/Eng-OmarFalih/Eng-OmarFalih/blob/main/workflows/omarfalih-grid-snake-dark.svg)
 ###
 
 
